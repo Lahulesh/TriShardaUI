@@ -86,7 +86,6 @@ main {
     margin-left: 10px;
     border-radius: 5px;
     background: rgb(238, 238, 238);
-
     color: white;
 }
 
@@ -104,12 +103,14 @@ main {
     padding: 5px 10px;
     border-right: 4px solid transparent;
     transition: 0.2s cubic-bezier(0.6, -0.28, 0.735, 0.045);
+    text-decoration: none;
 }
 
 .link:hover {
     border-right: 4px solid white;
     background: rgb(45, 51, 89);
     transition: 0.2s cubic-bezier(0.6, -0.28, 0.735, 0.045);
+    text-decoration: none;
 }
 
 .active {
