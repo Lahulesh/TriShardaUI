@@ -11,12 +11,14 @@ import AdjustmentMaker from "../components/Adjustment/AdjustmentMaker";
 import AdjustmentChecker from "../components/Adjustment/AdjustmentChecker";
 import ForceMatchMaker from "../components/ForceMatch/ForceMatchMaker";
 import ForceMatchChecker from "../components/ForceMatch/ForceMatchChecker";
+import Header from '../components/Navbar/Header';
 
 
 function Routing() {
   return (
     <Router>
         <SideBar>
+          <Header></Header>
             <Routes>
                 <Route path="/" element={<Dashboard />} />
                 <Route path="/Readers/Readers" element={<Readers />} />
