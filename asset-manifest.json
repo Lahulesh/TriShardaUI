@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/TriShardaUI/static/css/main.a155f7e8.css",
-    "main.js": "/TriShardaUI/static/js/main.f6441dc3.js",
+    "main.js": "/TriShardaUI/static/js/main.3b094501.js",
     "static/js/787.01c90376.chunk.js": "/TriShardaUI/static/js/787.01c90376.chunk.js",
     "index.html": "/TriShardaUI/index.html",
     "main.a155f7e8.css.map": "/TriShardaUI/static/css/main.a155f7e8.css.map",
-    "main.f6441dc3.js.map": "/TriShardaUI/static/js/main.f6441dc3.js.map",
+    "main.3b094501.js.map": "/TriShardaUI/static/js/main.3b094501.js.map",
     "787.01c90376.chunk.js.map": "/TriShardaUI/static/js/787.01c90376.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a155f7e8.css",
-    "static/js/main.f6441dc3.js"
+    "static/js/main.3b094501.js"
   ]
 }
