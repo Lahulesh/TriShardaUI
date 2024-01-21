@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkamazepay=self.webpackChunkamazepay||[]).push([[90],{90:(e,a,s)=>{s.r(a),s.d(a,{default:()=>c});s(791);var t=s(184);const c=function(){return(0,t.jsx)("div",{className:"test",children:"Header"})}}}]);
+//# sourceMappingURL=90.04397a0c.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkamazepay=self.webpackChunkamazepay||[]).push([[543],{543:(e,a,s)=>{s.r(a),s.d(a,{default:()=>c});s(791);var t=s(184);const c=function(){return(0,t.jsx)("div",{className:"title",children:"AdjustmentChecker"})}}}]);
+//# sourceMappingURL=543.8dc922be.chunk.js.map

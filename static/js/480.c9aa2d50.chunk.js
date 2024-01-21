@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkamazepay=self.webpackChunkamazepay||[]).push([[480],{480:(a,e,s)=>{s.r(e),s.d(e,{default:()=>c});s(791);var t=s(184);const c=function(){return(0,t.jsx)("div",{className:"title",children:"Dashboard"})}}}]);
+//# sourceMappingURL=480.c9aa2d50.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkamazepay=self.webpackChunkamazepay||[]).push([[116],{116:(e,a,c)=>{c.r(a),c.d(a,{default:()=>t});c(791);var s=c(184);const t=function(){return(0,s.jsx)("div",{className:"title",children:"ForceMatchChecker"})}}}]);
+//# sourceMappingURL=116.406420ec.chunk.js.map

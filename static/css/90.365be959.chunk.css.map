@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/90.365be959.chunk.css","mappings":"AAAA,MAEI,kBAAyB,CAEzB,UAAY,CACZ,cAAe,CAFf,WAGJ","sources":["assets/Style/Header.css"],"sourcesContent":[".test\r\n{\r\n    background: rgb(0, 7, 61);\r\n    height: 50px;\r\n    color: white;\r\n    font-size: 20px;\r\n}"],"names":[],"sourceRoot":""}

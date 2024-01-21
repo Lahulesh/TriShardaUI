@@ -1,15 +1,41 @@
 {
   "files": {
-    "main.css": "/TriShardaUI/static/css/main.a155f7e8.css",
-    "main.js": "/TriShardaUI/static/js/main.3b094501.js",
+    "main.css": "/TriShardaUI/static/css/main.834cac2c.css",
+    "main.js": "/TriShardaUI/static/js/main.0c863bd7.js",
+    "static/js/480.c9aa2d50.chunk.js": "/TriShardaUI/static/js/480.c9aa2d50.chunk.js",
+    "static/js/162.4b2b9a2d.chunk.js": "/TriShardaUI/static/js/162.4b2b9a2d.chunk.js",
+    "static/js/236.24598527.chunk.js": "/TriShardaUI/static/js/236.24598527.chunk.js",
+    "static/js/20.21391f4a.chunk.js": "/TriShardaUI/static/js/20.21391f4a.chunk.js",
+    "static/js/543.8dc922be.chunk.js": "/TriShardaUI/static/js/543.8dc922be.chunk.js",
+    "static/js/237.273c8196.chunk.js": "/TriShardaUI/static/js/237.273c8196.chunk.js",
+    "static/js/116.406420ec.chunk.js": "/TriShardaUI/static/js/116.406420ec.chunk.js",
+    "static/css/90.365be959.chunk.css": "/TriShardaUI/static/css/90.365be959.chunk.css",
+    "static/js/90.04397a0c.chunk.js": "/TriShardaUI/static/js/90.04397a0c.chunk.js",
+    "static/js/202.b8552165.chunk.js": "/TriShardaUI/static/js/202.b8552165.chunk.js",
     "static/js/787.01c90376.chunk.js": "/TriShardaUI/static/js/787.01c90376.chunk.js",
+    "static/js/360.f3c3c7a4.chunk.js": "/TriShardaUI/static/js/360.f3c3c7a4.chunk.js",
+    "static/js/347.4c2a8aa1.chunk.js": "/TriShardaUI/static/js/347.4c2a8aa1.chunk.js",
+    "static/js/356.40174956.chunk.js": "/TriShardaUI/static/js/356.40174956.chunk.js",
     "index.html": "/TriShardaUI/index.html",
-    "main.a155f7e8.css.map": "/TriShardaUI/static/css/main.a155f7e8.css.map",
-    "main.3b094501.js.map": "/TriShardaUI/static/js/main.3b094501.js.map",
-    "787.01c90376.chunk.js.map": "/TriShardaUI/static/js/787.01c90376.chunk.js.map"
+    "main.834cac2c.css.map": "/TriShardaUI/static/css/main.834cac2c.css.map",
+    "main.0c863bd7.js.map": "/TriShardaUI/static/js/main.0c863bd7.js.map",
+    "480.c9aa2d50.chunk.js.map": "/TriShardaUI/static/js/480.c9aa2d50.chunk.js.map",
+    "162.4b2b9a2d.chunk.js.map": "/TriShardaUI/static/js/162.4b2b9a2d.chunk.js.map",
+    "236.24598527.chunk.js.map": "/TriShardaUI/static/js/236.24598527.chunk.js.map",
+    "20.21391f4a.chunk.js.map": "/TriShardaUI/static/js/20.21391f4a.chunk.js.map",
+    "543.8dc922be.chunk.js.map": "/TriShardaUI/static/js/543.8dc922be.chunk.js.map",
+    "237.273c8196.chunk.js.map": "/TriShardaUI/static/js/237.273c8196.chunk.js.map",
+    "116.406420ec.chunk.js.map": "/TriShardaUI/static/js/116.406420ec.chunk.js.map",
+    "90.365be959.chunk.css.map": "/TriShardaUI/static/css/90.365be959.chunk.css.map",
+    "90.04397a0c.chunk.js.map": "/TriShardaUI/static/js/90.04397a0c.chunk.js.map",
+    "202.b8552165.chunk.js.map": "/TriShardaUI/static/js/202.b8552165.chunk.js.map",
+    "787.01c90376.chunk.js.map": "/TriShardaUI/static/js/787.01c90376.chunk.js.map",
+    "360.f3c3c7a4.chunk.js.map": "/TriShardaUI/static/js/360.f3c3c7a4.chunk.js.map",
+    "347.4c2a8aa1.chunk.js.map": "/TriShardaUI/static/js/347.4c2a8aa1.chunk.js.map",
+    "356.40174956.chunk.js.map": "/TriShardaUI/static/js/356.40174956.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a155f7e8.css",
-    "static/js/main.3b094501.js"
+    "static/css/main.834cac2c.css",
+    "static/js/main.0c863bd7.js"
   ]
 }
